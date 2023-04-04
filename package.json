@@ -1,0 +1,19 @@
+{
+  "name": "vuepropfactorybug",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.2.0",
+    "@vitejs/plugin-vue2-jsx": "^1.1.0",
+    "@vue/tsconfig": "^0.1.3",
+    "vite": "^4.1.4"
+  },
+  "dependencies": {
+    "vue": "^2.7.14"
+  }
+}
